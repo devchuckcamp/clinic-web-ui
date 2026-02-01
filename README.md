@@ -2,6 +2,16 @@
 
 React-based web interface for the SnoreMD Medical Notes API.
 
+## Documentation
+
+See the [docs/](./docs/) folder for screenshots and additional documentation:
+
+- `dashboard.png` - Dashboard view
+- `patient-list.png` - Patient list view
+- `note-list.png` - Notes list view
+- `note-view.png` - Note detail view
+- `non-admin-delete-attempt.png` - Non-admin delete attempt error
+
 ## Tech Stack
 
 - **React 18** with TypeScript
